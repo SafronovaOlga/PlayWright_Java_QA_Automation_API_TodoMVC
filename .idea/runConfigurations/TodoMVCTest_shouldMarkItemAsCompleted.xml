@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TodoMVCTest.shouldMarkItemAsCompleted" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="PlayWright_Java_QA_Automation_API_TodoMVC" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="tests.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="tests" />
+    <option name="MAIN_CLASS_NAME" value="tests.TodoMVCTest" />
+    <option name="METHOD_NAME" value="shouldMarkItemAsCompleted" />
+    <option name="TEST_OBJECT" value="method" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
